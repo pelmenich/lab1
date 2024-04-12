@@ -1,0 +1,15 @@
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\bin\Debug\net7.0\Lab1_C#.exe
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\bin\Debug\net7.0\Lab1_C#.deps.json
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\bin\Debug\net7.0\Lab1_C#.runtimeconfig.json
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\bin\Debug\net7.0\Lab1_C#.dll
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\bin\Debug\net7.0\Lab1_C#.pdb
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\obj\Debug\net7.0\Lab1_C#.csproj.AssemblyReference.cache
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\obj\Debug\net7.0\Lab1_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\obj\Debug\net7.0\Lab1_C#.AssemblyInfoInputs.cache
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\obj\Debug\net7.0\Lab1_C#.AssemblyInfo.cs
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\obj\Debug\net7.0\Lab1_C#.csproj.CoreCompileInputs.cache
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\obj\Debug\net7.0\Lab1_C#.dll
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\obj\Debug\net7.0\refint\Lab1_C#.dll
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\obj\Debug\net7.0\Lab1_C#.pdb
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\obj\Debug\net7.0\Lab1_C#.genruntimeconfig.cache
+C:\Users\nasti\Desktop\2 семестр\ПОП\Lab1_C#\Lab1_C#\Lab1_C#\obj\Debug\net7.0\ref\Lab1_C#.dll
